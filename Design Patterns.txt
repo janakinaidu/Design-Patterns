@@ -1,0 +1,45 @@
+Design Patterns:
+===============
+We have 4 types of Design Patterns in Java;
+i)  Creational Design Pattern
+ii) Strctural Design Pattern
+iii)Behavioral Design Pattern
+iv) J2EE Design Pattern
+
+1.Creational Design Pattern:
+--------------------------
+-->Creational Design Pattern "deals with object creations".
+-->By hiding object creation process from the Client Applications;
+i)  Factory Method 
+ii) bstract Factory 
+iii)Singleton  
+iv) prototype 
+v)  builder
+
+
+2.Structural Design Patterns:
+-----------------------------
+i)  Adapter  
+ii) Composite 
+iii)decarator
+iv) flyweight
+v)  proxy
+
+3.Behavioral
+-------------
+i)  Template Method
+ii) Observer
+iii)Strategy
+iv) chain of Reposbility
+v)  compound
+
+4.j2ee:
+-------
+i)   mvc
+ii)  intercepting filter
+iii) Front controller
+iv)  view Helper
+v)   business delegate
+vi)  session Facade
+vii) Service Loader
+viii)Inversion of control(IOC)
