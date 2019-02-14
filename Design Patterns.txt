@@ -11,7 +11,7 @@ iv) J2EE Design Pattern
 -->Creational Design Pattern "deals with object creations".
 -->By hiding object creation process from the Client Applications;
 i)  Factory Method 
-ii) bstract Factory 
+ii) Abstract Factory 
 iii)Singleton  
 iv) prototype 
 v)  builder
